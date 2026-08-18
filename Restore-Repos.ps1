@@ -30,12 +30,12 @@ if (-not (Test-Path -LiteralPath $Config)) { throw "Nie znaleziono konfiguracji:
 $Config = (Resolve-Path -LiteralPath $Config).Path
 
 if (-not $Target) { $Target = Split-Path -Parent $Config }
+$Target = [System.IO.Path]::GetFullPath($Target, (Get-Location).Path)
 if (-not (Test-Path -LiteralPath $Target)) {
     if ($PSCmdlet.ShouldProcess($Target, 'Utworz katalog docelowy')) {
         New-Item -ItemType Directory -Path $Target -Force | Out-Null
     }
 }
-$Target = (Resolve-Path -LiteralPath $Target).Path
 
 if (-not (Get-Command git -ErrorAction SilentlyContinue)) { throw 'Nie znaleziono polecenia git w PATH.' }
 

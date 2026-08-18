@@ -1,0 +1,14 @@
+# Sklonowane repozytoria (Restore-Repos.ps1 uruchomiony w katalogu repo)
+# Ignorujemy wszystkie katalogi zawierajace wlasne .git
+/*/
+
+# ...ale nie te, ktore sa czescia projektu
+!/docs/
+!/examples/
+!/tests/
+!/.github/
+
+# PowerShell / edytory
+*.log
+.vscode/
+.idea/
