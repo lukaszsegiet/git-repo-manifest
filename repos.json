@@ -1,73 +1,80 @@
 {
-  "generatedAt": "2026-08-18T11:17:36",
+  "generatedAt": "2026-08-18T11:26:59",
   "root": ".",
   "repositories": [
     {
       "name": "awesome-os-setup",
-      "path": "awesome-os-setup",
+      "path": "_documents/awesome-os-setup",
       "url": "git@github.com:AmineDjeghri/awesome-os-setup.git",
       "branch": "main",
-      "description": "An opinionated setup app + documentation hub for building a fast, clean, and consistent environment across Windows, Linux, macOS, WSL2, and even your living room stack (Google TV + Stremio) and home server (Home Assistan..."
+      "description": "An opinionated terminal UI app + documentation hub for a fast, consistent setup across Windows, Linux, macOS, WSL2, your living room (Google TV + Stremio), and your home server (Home Assistant)."
     },
     {
       "name": "chatgpt-cli",
-      "path": "chatgpt-cli",
+      "path": "_to-check/chatgpt-cli",
       "url": "git@github.com:efJerryYang/chatgpt-cli.git",
       "branch": "main",
       "description": "ChatGPT CLI is a command-line interface tool that connects to the ChatGPT language model using OpenAI's official API key."
     },
     {
       "name": "claude-code-best-practice",
-      "path": "claude-code-best-practice",
+      "path": "_documents/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice.git",
       "branch": "main",
-      "description": "practice makes claude perfect"
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect"
     },
     {
       "name": "coding-interview-university",
-      "path": "coding-interview-university",
+      "path": "_documents/coding-interview-university",
       "url": "git@github.com:jwasham/coding-interview-university.git",
       "branch": "main",
       "description": "This is my multi-month study plan for becoming a software engineer for a large company."
     },
     {
+      "name": "git-repo-manifest",
+      "path": ".",
+      "url": "git@github.com:lukaszsegiet/git-repo-manifest.git",
+      "branch": "main",
+      "description": "Dwa skrypty PowerShell do inwentaryzacji i odtwarzania kolekcji repozytoriow git."
+    },
+    {
       "name": "git-statuses",
-      "path": "git-statuses",
+      "path": "_tools/git-statuses",
       "url": "https://github.com/bircni/git-statuses.git",
       "branch": "main",
       "description": "A command-line tool to display the status of multiple Git repositories in a clear, tabular format."
     },
     {
       "name": "llm",
-      "path": "llm",
+      "path": "_to-check/llm",
       "url": "git@github.com:simonw/llm.git",
       "branch": "main",
-      "description": "A CLI tool and Python library for interacting with OpenAI, Anthropic’s Claude, Google’s Gemini, Meta’s Llama and dozens of other Large Language Models, both via remote APIs and with models that can be installed and run o..."
+      "description": "A CLI tool and Python library for interacting with OpenAI, Anthropic’s Claude, Google’s Gemini, Qwen, Gemma, Kimi, DeepSeek, Mistral, and dozens of other Large Language Models, both via remote APIs and with models that c..."
     },
     {
       "name": "mempalace",
-      "path": "mempalace",
+      "path": "_to-check/mempalace",
       "url": "https://github.com/milla-jovovich/mempalace.git",
       "branch": "main",
-      "description": "Every conversation you have with an AI — every decision, every debugging session, every architecture debate — disappears when the session ends. Six months of work, gone. You start over every time."
+      "description": "Local-first AI memory. Verbatim storage, pluggable backend, 96.6% R@5 raw on LongMemEval — zero API calls."
     },
     {
       "name": "simple-cli-llm-chat",
-      "path": "simple-cli-llm-chat",
+      "path": "_to-check/simple-cli-llm-chat",
       "url": "git@github.com:khromalabs/simple-cli-llm-chat.git",
       "branch": "master-github",
       "description": "Simple CLI LLM Chat"
     },
     {
       "name": "system_prompts_leaks",
-      "path": "system_prompts_leaks",
+      "path": "_to-check/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks.git",
       "branch": "main",
-      "description": "Extracted system prompts, system messages, and developer instructions from popular AI chatbots and coding assistants — ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3."
+      "description": "Leaked system prompts, captured verbatim — the hidden instructions and rules that ChatGPT, Claude, Gemini, Grok and every other AI chatbot receives before your first message."
     },
     {
       "name": "WinReg",
-      "path": "WinReg",
+      "path": "_to-check/WinReg",
       "url": "git@github.com:GiovanniDicanio/WinReg.git",
       "branch": "master",
       "description": "by Giovanni Dicanio"
