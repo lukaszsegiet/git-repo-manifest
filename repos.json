@@ -1,13 +1,48 @@
 {
-  "generatedAt": "2026-08-18T11:26:59",
+  "generatedAt": "2026-08-19T20:54:41",
   "root": ".",
   "repositories": [
+    {
+      "name": "ai-job-search",
+      "path": "_documents/ai-job-search",
+      "url": "git@github.com:MadsLorentzen/ai-job-search.git",
+      "branch": "master",
+      "description": "The job search that runs on your machine."
+    },
+    {
+      "name": "awesome-claude-skills",
+      "path": "_przejrzec/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+      "branch": "master",
+      "description": "A curated list of practical Claude Skills for enhancing productivity across Claude.ai, Claude Code, and the Claude API."
+    },
+    {
+      "name": "awesome-llm-apps",
+      "path": "_documents/awesome-llm-apps",
+      "url": "git@github.com:Shubhamsaboo/awesome-llm-apps.git",
+      "branch": "main",
+      "description": "100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0."
+    },
+    {
+      "name": "Awesome-Obsidian-AI-Tools",
+      "path": "_documents/Awesome-Obsidian-AI-Tools",
+      "url": "git@github.com:danielrosehill/Awesome-Obsidian-AI-Tools.git",
+      "branch": "main",
+      "description": "A curated collection of Obsidian plugins focused on leveraging AI and LLMs inside your vault."
+    },
     {
       "name": "awesome-os-setup",
       "path": "_documents/awesome-os-setup",
       "url": "git@github.com:AmineDjeghri/awesome-os-setup.git",
       "branch": "main",
       "description": "An opinionated terminal UI app + documentation hub for a fast, consistent setup across Windows, Linux, macOS, WSL2, your living room (Google TV + Stremio), and your home server (Home Assistant)."
+    },
+    {
+      "name": "c-practice-projects",
+      "path": "_documents/c-practice-projects",
+      "url": "git@github.com:labex-labs/c-practice-projects.git",
+      "branch": "master",
+      "description": "Languages: English · 简体中文 · 日本語 · Español · Français · Deutsch · Русский · 한국어 · Português"
     },
     {
       "name": "chatgpt-cli",
@@ -24,11 +59,39 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect"
     },
     {
+      "name": "CodeGraphContext",
+      "path": "_przejrzec/CodeGraphContext",
+      "url": "https://github.com/CodeGraphContext/CodeGraphContext.git",
+      "branch": "main",
+      "description": "Turn code repositories into a queryable graph for AI agents."
+    },
+    {
       "name": "coding-interview-university",
       "path": "_documents/coding-interview-university",
       "url": "git@github.com:jwasham/coding-interview-university.git",
       "branch": "main",
       "description": "This is my multi-month study plan for becoming a software engineer for a large company."
+    },
+    {
+      "name": "coding-interview-university",
+      "path": "_przejrzec/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university.git",
+      "branch": "main",
+      "description": "This is my multi-month study plan for becoming a software engineer for a large company."
+    },
+    {
+      "name": "cppbestpractices",
+      "path": "_przejrzec/cppbestpractices",
+      "url": "https://github.com/cpp-best-practices/cppbestpractices",
+      "branch": "master",
+      "description": "Collaborative Collection of C++ Best Practices"
+    },
+    {
+      "name": "english-words",
+      "path": "_przejrzec/english-words",
+      "url": "https://github.com/dwyl/english-words.git",
+      "branch": "master",
+      "description": "List Of English Words"
     },
     {
       "name": "git-repo-manifest",
@@ -45,6 +108,20 @@
       "description": "A command-line tool to display the status of multiple Git repositories in a clear, tabular format."
     },
     {
+      "name": "gitignore",
+      "path": "_przejrzec/gitignore",
+      "url": "https://github.com/github/gitignore",
+      "branch": "main",
+      "description": "This is GitHub’s collection of [.gitignore][man] file templates. We use this list to populate the .gitignore template choosers available in the GitHub.com interface when creating new repositories and files."
+    },
+    {
+      "name": "gitscan",
+      "path": "_przejrzec/gitscan",
+      "url": "https://github.com/e-mit/gitscan.git",
+      "branch": "main",
+      "description": "Gitscan is a desktop application for viewing the status of all git repositories on your computer."
+    },
+    {
       "name": "llm",
       "path": "_to-check/llm",
       "url": "git@github.com:simonw/llm.git",
@@ -59,11 +136,74 @@
       "description": "Local-first AI memory. Verbatim storage, pluggable backend, 96.6% R@5 raw on LongMemEval — zero API calls."
     },
     {
+      "name": "musicbee-plugin",
+      "path": "_przejrzec/musicbee-plugin",
+      "url": "https://github.com/iSplasher/musicbee-plugin.git",
+      "branch": "master",
+      "description": "This is a template for creating a MusicBee plugin. It contains a basic plugin that can be built and run."
+    },
+    {
+      "name": "MusicFLAC",
+      "path": "_tools/MusicFLAC",
+      "url": "git@github.com:fabiodalez-dev/MusicFLAC.git",
+      "branch": "main",
+      "description": "MusicFLAC is a modern web application that allows you to download music tracks in lossless FLAC format with CD quality directly from Spotify links."
+    },
+    {
+      "name": "Obsidian-Templates",
+      "path": "_przejrzec/Obsidian-Templates",
+      "url": "https://github.com/groepl/Obsidian-Templates.git",
+      "branch": "main",
+      "description": "A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking."
+    },
+    {
+      "name": "project-based-tutorials-in-c",
+      "path": "_documents/project-based-tutorials-in-c",
+      "url": "git@github.com:7etsuo/project-based-tutorials-in-c.git",
+      "branch": "main",
+      "description": "A curated list of project-based tutorials for building emulators, kernels, databases, games, compilers, shells, and low-level tools in C."
+    },
+    {
+      "name": "Shell",
+      "path": "_przejrzec/Shell",
+      "url": "https://github.com/geekcomputers/Shell.git",
+      "branch": "master",
+      "description": "Here is a detailed information about the scripts I have written. I do not consider myself a programmer, I create these little programs as experiments to have a play with the language, or to solve a problem for myself."
+    },
+    {
       "name": "simple-cli-llm-chat",
       "path": "_to-check/simple-cli-llm-chat",
       "url": "git@github.com:khromalabs/simple-cli-llm-chat.git",
       "branch": "master-github",
       "description": "Simple CLI LLM Chat"
+    },
+    {
+      "name": "skills",
+      "path": "_documents/skills",
+      "url": "git@github.com:mattpocock/skills.git",
+      "branch": "main",
+      "description": "My agent skills that I use every day to do real engineering - not vibe coding."
+    },
+    {
+      "name": "SpotiFLAC",
+      "path": "_tools/SpotiFLAC",
+      "url": "git@github.com:spotbye/SpotiFLAC.git",
+      "branch": "main",
+      "description": "src=\"https://trendshift.io/api/badge/repositories/15737\" alt=\"afkarxyz%2FSpotiFLAC | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\" /></a>"
+    },
+    {
+      "name": "superpowers",
+      "path": "_przejrzec/superpowers",
+      "url": "https://github.com/obra/superpowers.git",
+      "branch": "main",
+      "description": "Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them."
+    },
+    {
+      "name": "sure",
+      "path": "_przejrzec/sure",
+      "url": "https://github.com/we-promise/sure.git",
+      "branch": "main",
+      "description": "involved: Discord • Website • Issues</b>"
     },
     {
       "name": "system_prompts_leaks",
@@ -73,11 +213,46 @@
       "description": "Leaked system prompts, captured verbatim — the hidden instructions and rules that ChatGPT, Claude, Gemini, Grok and every other AI chatbot receives before your first message."
     },
     {
+      "name": "system-design-notes",
+      "path": "_documents/system-design-notes",
+      "url": "git@github.com:liquidslr/system-design-notes.git",
+      "branch": "main",
+      "description": "These notes are based on the System Design Interview books - Vol 1 and Vol 2 2nd Ed"
+    },
+    {
+      "name": "Tech-History-Timeline",
+      "path": "_przejrzec/Tech-History-Timeline",
+      "url": "https://github.com/makalin/Tech-History-Timeline.git",
+      "branch": "main",
+      "description": ""
+    },
+    {
+      "name": "winappCli",
+      "path": "_przejrzec/winappCli",
+      "url": "https://github.com/microsoft/winappCli.git",
+      "branch": "main",
+      "description": "The Windows App Development CLI (winapp CLI) is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework."
+    },
+    {
+      "name": "WinReg",
+      "path": "_przejrzec/WinReg",
+      "url": "https://github.com/GiovanniDicanio/WinReg.git",
+      "branch": "master",
+      "description": "by Giovanni Dicanio"
+    },
+    {
       "name": "WinReg",
       "path": "_to-check/WinReg",
       "url": "git@github.com:GiovanniDicanio/WinReg.git",
       "branch": "master",
       "description": "by Giovanni Dicanio"
+    },
+    {
+      "name": "witr",
+      "path": "_przejrzec/witr",
+      "url": "https://github.com/pranshuparmar/witr.git",
+      "branch": "main",
+      "description": "✨ Introducing the new Interactive TUI Mode<br> 📖 Read the story behind witr"
     }
   ]
 }
