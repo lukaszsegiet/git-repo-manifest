@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-19T20:54:41",
+  "generatedAt": "2026-10-01T11:03:43",
   "root": ".",
   "repositories": [
+    {
+      "name": "agent-skills",
+      "path": "_AI/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills.git",
+      "branch": "main",
+      "description": "In an ecosystem where <a href=\"https://github.com/snyk/agent-scan/blob/main/.github/reports/skills-report."
+    },
     {
       "name": "ai-job-search",
       "path": "_documents/ai-job-search",
@@ -15,6 +22,13 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
       "branch": "master",
       "description": "A curated list of practical Claude Skills for enhancing productivity across Claude.ai, Claude Code, and the Claude API."
+    },
+    {
+      "name": "awesome-llm-apps",
+      "path": "_AI/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps.git",
+      "branch": "main",
+      "description": "100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0."
     },
     {
       "name": "awesome-llm-apps",
@@ -67,15 +81,15 @@
     },
     {
       "name": "coding-interview-university",
-      "path": "_documents/coding-interview-university",
-      "url": "git@github.com:jwasham/coding-interview-university.git",
+      "path": "_przejrzec/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university.git",
       "branch": "main",
       "description": "This is my multi-month study plan for becoming a software engineer for a large company."
     },
     {
       "name": "coding-interview-university",
-      "path": "_przejrzec/coding-interview-university",
-      "url": "https://github.com/jwasham/coding-interview-university.git",
+      "path": "_documents/coding-interview-university",
+      "url": "git@github.com:jwasham/coding-interview-university.git",
       "branch": "main",
       "description": "This is my multi-month study plan for becoming a software engineer for a large company."
     },
@@ -96,7 +110,7 @@
     {
       "name": "git-repo-manifest",
       "path": ".",
-      "url": "git@github.com:lukaszsegiet/git-repo-manifest.git",
+      "url": "git@github-personal:lukaszsegiet/git-repo-manifest.git",
       "branch": "main",
       "description": "Dwa skrypty PowerShell do inwentaryzacji i odtwarzania kolekcji repozytoriow git."
     },
@@ -150,6 +164,13 @@
       "description": "MusicFLAC is a modern web application that allows you to download music tracks in lossless FLAC format with CD quality directly from Spotify links."
     },
     {
+      "name": "no-ai-slop",
+      "path": "_AI/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop.git",
+      "branch": "main",
+      "description": "Remove 20+ patterns of AI slop from your writing without flattening your personal voice."
+    },
+    {
       "name": "Obsidian-Templates",
       "path": "_przejrzec/Obsidian-Templates",
       "url": "https://github.com/groepl/Obsidian-Templates.git",
@@ -185,6 +206,13 @@
       "description": "My agent skills that I use every day to do real engineering - not vibe coding."
     },
     {
+      "name": "spec-kit",
+      "path": "_AI/spec-kit",
+      "url": "https://github.com/github/spec-kit.git",
+      "branch": "main",
+      "description": "Spec-Driven Development flips the script on traditional software development. For decades, code has been king — specifications were just scaffolding we built and discarded once the \"real work\" of coding began."
+    },
+    {
       "name": "SpotiFLAC",
       "path": "_tools/SpotiFLAC",
       "url": "git@github.com:spotbye/SpotiFLAC.git",
@@ -197,6 +225,13 @@
       "url": "https://github.com/obra/superpowers.git",
       "branch": "main",
       "description": "Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them."
+    },
+    {
+      "name": "superpowers",
+      "path": "_AI/superpowers",
+      "url": "https://github.com/obra/superpowers.git",
+      "branch": "main",
+      "description": "Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them."
     },
     {
       "name": "sure",
@@ -235,15 +270,15 @@
     },
     {
       "name": "WinReg",
-      "path": "_przejrzec/WinReg",
-      "url": "https://github.com/GiovanniDicanio/WinReg.git",
+      "path": "_to-check/WinReg",
+      "url": "git@github.com:GiovanniDicanio/WinReg.git",
       "branch": "master",
       "description": "by Giovanni Dicanio"
     },
     {
       "name": "WinReg",
-      "path": "_to-check/WinReg",
-      "url": "git@github.com:GiovanniDicanio/WinReg.git",
+      "path": "_przejrzec/WinReg",
+      "url": "https://github.com/GiovanniDicanio/WinReg.git",
       "branch": "master",
       "description": "by Giovanni Dicanio"
     },
